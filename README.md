@@ -168,3 +168,4 @@ QuietPages works anywhere Astro can deploy. For Vercel, Netlify, or another stat
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
+...
